@@ -1,0 +1,7 @@
+fitz
+nltk
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+PyMuPDF
